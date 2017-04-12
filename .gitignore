@@ -1,0 +1,10 @@
+# Exclude the .htaccess file
+.htaccess
+
+# Exclude any PSD/AI source
+*.psd
+*.ai
+
+# Exclude the build products
+build/*
+*.[oa]
