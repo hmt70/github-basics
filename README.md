@@ -1,3 +1,3 @@
 Github Basics
 this is github-basics
-[I'm learning this on parsclik.net](www.parsclick.net)
+[I'm learning this on parsclick.net](www.parsclick.net)
